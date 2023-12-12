@@ -216,4 +216,22 @@
     height: 90%;
 
     background-color: #7FFFD4;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-2 {
+    background-color: #FFB6C1;
+    border: 2px dashed black;
+
+    display: inline-block;
+}
+
+.bottone {
+    background-color: #FFB6C1;
+    border: 2px dashed black;
+
+    display: inline-block;
 }
