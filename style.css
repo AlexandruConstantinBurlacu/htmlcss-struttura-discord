@@ -24,7 +24,14 @@
 
 .container .intro .aside {
     width: 1250px;
-    height: 50px;
+    height: 45px;
 
     background-color: #DAA520;
+}
+
+.container .intro .aside .logo {
+    width: 250px;
+    height: 45px;
+    border: 1px dotted black;
+    display: inline-block;
 }
