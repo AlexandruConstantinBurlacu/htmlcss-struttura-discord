@@ -152,3 +152,38 @@
 
     border: 3px dashed black;
 }
+
+.black {
+    width: 100%;
+    height: 660px;
+
+    background-color: #23272A;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.settimo {
+    width: 70%;
+    height: 90%;
+
+    display: flex;
+    align-items: flex-end;
+}
+
+.mini-pink {
+    width: 33%;
+    height: 100%;
+
+    background-color: #FFC0CB;
+
+    border: 3px dashed black;
+}
+
+.box-ciano {
+    width: 66%;
+    height: 100%;
+
+    border: 3px dashed black;
+}
