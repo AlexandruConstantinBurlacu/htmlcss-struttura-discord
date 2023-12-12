@@ -186,4 +186,16 @@
     height: 100%;
 
     border: 3px dashed black;
+
+    display: flex;
+    align-items: normal;
+}
+
+.ciano {
+    width: 25%;
+    height: 100%;
+
+    background-color: #20B2AA;
+
+    border: 3px dashed white;
 }
