@@ -32,6 +32,26 @@
 .container .intro .aside .logo {
     width: 250px;
     height: 45px;
+
     border: 1px dotted black;
+
+    display: inline-block;
+}
+
+.container .intro .aside .link {
+    width: 750px;
+    height: 45px;
+
+    border: 1px dotted black;
+    
+    display: inline-block;
+}
+
+.container .intro .aside .login {
+    width: 250px;
+    height: 45px;
+
+    border: 1px dotted black;
+    
     display: inline-block;
 }
