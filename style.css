@@ -132,3 +132,23 @@
     align-items: flex-end;
     flex-direction: row-reverse;
 }
+
+.big-gray {
+    width: 100%;
+    height: 1040px;
+
+    background-color: lightgray;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.green {
+    width: 70%;
+    height: 90%;
+
+    background-color: green;
+
+    border: 3px dashed black;
+}
